@@ -1,0 +1,43 @@
+{
+  "counts": {
+    "blank_nodes": 0,
+    "classes": 3,
+    "identifier_subjects": 4395,
+    "labeled_typed_subjects": 6667,
+    "linked_identifier_subjects": 4395,
+    "measurements": 0,
+    "measurements_with_units": 0,
+    "predicates": 12,
+    "provenance_subjects": 6305,
+    "subjects": 11279,
+    "triples": 74114,
+    "typed_subjects": 6667
+  },
+  "findings": [
+    {
+      "code": "untyped_subject_ratio",
+      "severity": "warning",
+      "threshold": 0.35,
+      "value": 0.408901
+    }
+  ],
+  "inputs": [
+    "/tmp/cesar-final.y0zRrK/all.nt"
+  ],
+  "metrics": {
+    "blank_node_ratio": 0.0,
+    "measurement_without_unit_ratio": 0.0,
+    "novel_class_ratio": 0.0,
+    "novel_predicate_ratio": 0.0,
+    "unlabeled_typed_ratio": 0.0,
+    "unlinked_identifier_ratio": 0.0,
+    "untyped_subject_ratio": 0.408901
+  },
+  "passed": true,
+  "schema_version": 1,
+  "score": 90.0,
+  "vocabulary": {
+    "novel_classes": [],
+    "novel_predicates": []
+  }
+}

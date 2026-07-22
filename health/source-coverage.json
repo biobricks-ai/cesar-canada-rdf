@@ -1,0 +1,1 @@
+{"thresholds":{"row_coverage":1.0,"mapped_cell_coverage":1.0,"cas_link_coverage_assessments":0.97,"cas_link_coverage_challenge":0.98,"cas_link_coverage_cmp3":0.98},"normalization":"Unhyphenated CAS digits and Challenge footnote asterisks are normalized only when the resulting CAS checksum is valid; raw cells remain evidence"}

@@ -1,0 +1,4 @@
+/brick/
+/.bb/dependencies/
+/.pytest_cache/
+__pycache__/

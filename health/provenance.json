@@ -1,0 +1,1 @@
+{"snapshot":"2026-01-18","jurisdiction":"Canada","sources":[{"table":"assessments","publisher":"ECCC","rows":4549},{"table":"challenge_substances","publisher":"Health Canada","rows":198},{"table":"cmp3_substances","publisher":"ECCC","rows":1558}],"metadata_correction":"Upstream description says 199 Challenge rows; parquet contains 198"}

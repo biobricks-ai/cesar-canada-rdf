@@ -1,0 +1,5 @@
+stages:
+  build:
+    cmd: python stages/convert.py .bb/dependencies/cesar-canada/brick brick
+    deps: [.bb/dependencies.txt, stages/convert.py]
+    outs: [brick]
